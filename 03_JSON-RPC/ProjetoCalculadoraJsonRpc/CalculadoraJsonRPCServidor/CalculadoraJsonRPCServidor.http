@@ -1,0 +1,6 @@
+@CalculadoraJsonRPCServidor_HostAddress = http://localhost:5101
+
+GET {{CalculadoraJsonRPCServidor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoMqttBridge", "ProjetoMQTT\ArduinoMqttBridge.csproj", "{B241C268-C600-445D-8321-1697228CBE96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatService", "CatService\CatService.csproj", "{34181BF7-54AB-4B16-B1F6-651602CB1260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmsService", "AlarmsService\AlarmsService.csproj", "{A9A301FA-E34B-4461-B19E-3A4EE8D96AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B241C268-C600-445D-8321-1697228CBE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B241C268-C600-445D-8321-1697228CBE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B241C268-C600-445D-8321-1697228CBE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B241C268-C600-445D-8321-1697228CBE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34181BF7-54AB-4B16-B1F6-651602CB1260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34181BF7-54AB-4B16-B1F6-651602CB1260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34181BF7-54AB-4B16-B1F6-651602CB1260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34181BF7-54AB-4B16-B1F6-651602CB1260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A301FA-E34B-4461-B19E-3A4EE8D96AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A301FA-E34B-4461-B19E-3A4EE8D96AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A301FA-E34B-4461-B19E-3A4EE8D96AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A301FA-E34B-4461-B19E-3A4EE8D96AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
